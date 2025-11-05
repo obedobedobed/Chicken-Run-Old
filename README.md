@@ -1,2 +1,10 @@
 # Chicken-Run
-Simple game about chicken escaping from laborotory with 5 not hard levels
+The simple game witn pixel graphics about running chicken with 5 levels
+
+This is my 3rd game made withount an engine (with MonoGame)
+
+Thanks MonoGame.Extended (https://www.monogameextended.net/) for camera, its really way better than my pseudo-camera in Komaru Platformer
+
+Game idea: chicken run from 2 3 4 player games by Better World Games
+
+You also can make your own levels by editing .txt files in Content/Maps/
