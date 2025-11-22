@@ -1,6 +1,4 @@
-# Chicken-Run
-The simple game witn pixel graphics about running chicken with 5 levels
-
+# Chicken-Run (OLD) 
 This is my 3rd game made withount an engine (with MonoGame)
 
 Thanks MonoGame.Extended (https://www.monogameextended.net/) for camera, its really way better than my pseudo-camera in Komaru Platformer
